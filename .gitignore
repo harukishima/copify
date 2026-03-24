@@ -1,0 +1,13 @@
+# Build output
+copify.exe
+copify
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go test binary
+*.test
+
+# Go coverage
+*.out
