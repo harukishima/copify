@@ -1,4 +1,4 @@
-module github.com/copify/copify
+module github.com/harukishima/copify
 
 go 1.26.1
 

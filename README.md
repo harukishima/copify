@@ -18,13 +18,13 @@ Works with AWS S3, MinIO, Backblaze B2, DigitalOcean Spaces, and any other S3-co
 ## Installation
 
 ```bash
-go install github.com/copify/copify@latest
+go install github.com/harukishima/copify@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/copify/copify.git
+git clone https://github.com/harukishima/copify.git
 cd copify
 go build -o copify .
 ```

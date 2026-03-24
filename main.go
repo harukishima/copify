@@ -1,6 +1,6 @@
 package main
 
-import "github.com/copify/copify/cmd"
+import "github.com/harukishima/copify/cmd"
 
 func main() {
 	cmd.Execute()

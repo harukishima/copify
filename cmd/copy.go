@@ -6,8 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/copify/copify/copier"
-	"github.com/copify/copify/s3client"
+	"github.com/harukishima/copify/copier"
+	"github.com/harukishima/copify/s3client"
 	"github.com/spf13/cobra"
 )
 
